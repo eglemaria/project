@@ -1,0 +1,59 @@
+@CHARSET "ISO-8859-1";
+
+body {
+    padding: 14px;    
+    background-color: #e8edf3;
+}
+
+#container {
+	padding: 10px;
+  max-width:700px;
+margin:auto;
+  margin-top: 5px;
+   background-color: white;
+color: black;
+text-transform:uppercase;
+ border-radius: 7px;
+ text-align:center;
+ border: 2px solid grey;
+}
+
+table {
+    width: 100%;
+   border-collapse: collapse;
+}
+
+
+table tr td,th {
+    
+    border: 1px solid grey;
+     padding: 20px;
+    border-radius: 2px;
+    
+    
+    
+}
+
+.td {
+	margin:auto;
+	margin-top: 10px;
+	
+	
+}
+
+.btn {
+	
+	background-color: #3b3a36;
+	outline:none;
+  	padding:8px; 
+  	text-transform:uppercase;
+  	letter-spacing:.1em;
+  	border-radius: 3px;
+  	color: white;
+  	position:relative;
+  	margin-top: 15px;
+  	
+	
+}
+
+
